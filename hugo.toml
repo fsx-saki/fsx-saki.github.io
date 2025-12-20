@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = '我的网站'
+theme = 'PaperMod'
+
+# 主题配置
+[params]
+  # 启用暗色模式
+  defaultTheme = 'auto'
+  # 显示修改日期
+  ShowLastMod = true
+  # 显示代码高亮
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+    name = '文章'
+    url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'tags'
+    name = '标签'
+    url = '/tags/'
+    weight = 20
+  [[menu.main]]
+    identifier = 'about'
+    name = '关于'
+    url = '/about/'
+    weight = 30

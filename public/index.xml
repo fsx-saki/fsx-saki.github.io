@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>我的网站</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 我的网站</description>
+    <generator>Hugo -- 0.153.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;欢迎来到我的博客！&lt;/p&gt;
+&lt;p&gt;这里会分享我的技术学习和生活感悟。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我的第一篇文章</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;欢迎&#34;&gt;欢迎！&lt;/h1&gt;
+&lt;p&gt;这是我的第一篇 Hugo 博客文章。&lt;/p&gt;
+&lt;h2 id=&#34;功能特点&#34;&gt;功能特点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;使用 PaperMod 主题&lt;/li&gt;
+&lt;li&gt;支持暗色模式&lt;/li&gt;
+&lt;li&gt;响应式设计&lt;/li&gt;
+&lt;li&gt;快速加载&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;代码示例&#34;&gt;代码示例&lt;/h2&gt;
+&lt;p&gt;python
+print(&amp;ldquo;Hello, Hugo!&amp;rdquo;)&lt;/p&gt;
+&lt;h2 id=&#34;数学公式&#34;&gt;数学公式&lt;/h2&gt;
+&lt;p&gt;$$
+E = mc^2
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;希望你喜欢这个博客！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
